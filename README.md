@@ -15,7 +15,7 @@
 
 ## ✅ Pre-Run Checklist
 
-🔹 **Register at ************[Fraction AI](https://dapp.fractionai.xyz?referral=90225C22)************.**\
+🔹 **Register at ************[Fraction AI]([https://dapp.fractionai.xyz?referral=C9590E72)************.**\
 🔹 **Create your agent.**\
 🔹 **Ensure you have enough Sepolia ETH.**\
 🔹 **Customize settings in ************`config.json`************.**
