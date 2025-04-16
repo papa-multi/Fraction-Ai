@@ -54,7 +54,7 @@ Before installing **FractionAI-BOT**, make sure you have:
 #### 📌 Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/sinak1023/Fraction-Ai.git
+git clone https://github.com/papa-multi/Fraction-Ai.git
 cd Fraction-Ai
 ```
 
